@@ -13,7 +13,7 @@ College Scorecard API: https://collegescorecard.ed.gov/data/
 
 Classified a student's income based on the median income from the data.
 
-Class 0: Student income < Median income
+Class 0: Student income < Median income <br/>
 Class 1: Student income > Median income
 
 
@@ -21,8 +21,8 @@ Class 1: Student income > Median income
 
 Classified a student's income in 3 classes.
 
-Class 0: Student income < 25th percentile of income
-Class 1: 25th percentile of income < Student income < 75th percentile of income
+Class 0: Student income < 25th percentile of income <br/>
+Class 1: 25th percentile of income < Student income < 75th percentile of income <br/>
 Class 2: Student income > 75th percentile of income
 
 
