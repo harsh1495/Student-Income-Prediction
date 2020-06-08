@@ -1,0 +1,7 @@
+*.zip
+*.docx
+*.pdf
+*.xlsx
+*.csv
+.ipynb_checkpoints/
+CollegeScorecard_Raw_Data/
