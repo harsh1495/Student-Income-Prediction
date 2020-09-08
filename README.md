@@ -35,13 +35,13 @@ Predicted a student's income using simple linear regression.
 
 #### Sparse Regression (LASSO)
 
-Predicted a student's income using linear regression with L1 penalty.
+Predicted a student's income using linear regression with L1 penalty. <br/>
 RMSE = ~12000
 
 
 #### Decision Tree and Random Forest 
 
-Predicted a student's income using using a decision tree and then a random forest regressor.
+Predicted a student's income using using a decision tree and then a random forest regressor. <br/>
 RMSE = ~15000
 
 
