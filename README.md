@@ -4,7 +4,7 @@ Predicting income of a student based on data related to his major and university
 
 ### Data Source
 
-College Scorecard Data: https://collegescorecard.ed.gov/data/documentation/
+College Scorecard Data: https://collegescorecard.ed.gov/data/documentation/ <br/>
 College Scorecard API: https://collegescorecard.ed.gov/data/
 
 ### Classification Models 
@@ -36,11 +36,13 @@ Predicted a student's income using simple linear regression.
 #### Sparse Regression (LASSO)
 
 Predicted a student's income using linear regression with L1 penalty.
+RMSE = ~12000
 
 
 #### Decision Tree and Random Forest 
 
 Predicted a student's income using using a decision tree and then a random forest regressor.
+RMSE = ~15000
 
 
 ### Reference Paper
